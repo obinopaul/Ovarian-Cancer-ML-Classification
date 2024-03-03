@@ -3,7 +3,7 @@
 This repository leverages advanced machine learning techniques to classify ovarian cancer stages, contributing significantly to early detection and tailored treatment approaches. Utilizing patient data and biomarkers, we aim to develop robust predictive models for precise cancer subtype identification.
 
 <p align="center">
-  <img src="images/mri_2.png" alt="Ovarian Cancer ML Classification" width="500"/>
+  <img src="images/mri_1.png" alt="Ovarian Cancer ML Classification" width="500"/>
 </p>
 
 ## Setup
